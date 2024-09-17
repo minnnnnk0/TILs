@@ -4,6 +4,11 @@ What I studied in the Frontend coures
 
 ### CONTENTS
 
+00. HTML과 CSS
+
+- [Semantic](00.HTML과%20CSS/00.Semantic.md)
+- [SEO](00.HTML과%20CSS/01.SEO.md)
+
 02. 브라우저의 이해
 
 - [BOM과 DOM](02.브라우저의%20이해/00.BOM과%20DOM.md)
