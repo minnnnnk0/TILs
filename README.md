@@ -8,6 +8,8 @@ What I studied in the Frontend coures
 
 - [Semantic](00.HTML과%20CSS/00.Semantic.md)
 - [SEO](00.HTML과%20CSS/01.SEO.md)
+- [우선순위와 명시도](00.HTML과%20CSS/02.우선순위와%20명시도.md)
+- [Margin Collapsing](00.HTML과%20CSS/03.Margin%20Collapsing.md)
 
 02. 브라우저의 이해
 
