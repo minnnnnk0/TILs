@@ -12,6 +12,8 @@ What I studied in the Frontend coures
 |**01.Javascript**|[var, let, const의 차이](01.Javascript/00.var_let_const.md)|
 ||[null, undefined, undeclared의 차이](01.Javascript/01.Null_Undefined_Undeclared.md)|
 ||[Method Chaining](01.Javascript/02.Method_Chaining.md)|
+||[호이스팅](01.Javascript/03.호이스팅.md)|
+||[함수 선언식 vs 함수 표현식](01.Javascript/04.함수_선언식_표현식.md)|
 |||
 |**02. 브라우저의 이해**|[BOM과 DOM](02.브라우저의%20이해/00.BOM_DOM.md)|
 ||[stopPropagation()과 preventDefault()](02.브라우저의%20이해/01.stopPropagation()_preventDefault().md)|
