@@ -16,6 +16,7 @@ What I studied in the Frontend coures
 ||[함수 선언식 vs 함수 표현식](01.Javascript/04.함수_선언식_표현식.md)|
 ||[arrow function 화살표함수](01.Javascript/05.Arrow_Function.md)|
 ||[this](01.Javascript/06.this.md)|
+||[클로저](01.Javascript/07.클로저.md)|
 |||
 |**02. 브라우저의 이해**|[BOM과 DOM](02.브라우저의%20이해/00.BOM_DOM.md)|
 ||[stopPropagation()과 preventDefault()](02.브라우저의%20이해/01.stopPropagation()_preventDefault().md)|
