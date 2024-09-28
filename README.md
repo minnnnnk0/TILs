@@ -16,6 +16,7 @@ What I studied in the Frontend coures
 ||[함수 선언식 vs 함수 표현식](01.Javascript/04.함수_선언식_표현식.md)|
 ||[arrow function 화살표함수](01.Javascript/05.Arrow_Function.md)|
 ||[this](01.Javascript/06.this.md)|
+||[실행컨텍스트](01.Javascript/07.Execution_Context.md)|
 ||[스코프와 스코프체인](01.Javascript/08.Scope_ScopeChain.md)|
 ||[Closure](01.Javascript/10.Closure.md)|
 |||
