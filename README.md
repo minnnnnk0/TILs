@@ -18,6 +18,7 @@ What I studied in the Frontend coures
 ||[this](01.Javascript/06.this.md)|
 ||[실행컨텍스트](01.Javascript/07.Execution_Context.md)|
 ||[스코프와 스코프체인](01.Javascript/08.Scope_ScopeChain.md)|
+||[렉시컬 스코프](01.Javascript/09.Lexical_Scope.md)|
 ||[Closure](01.Javascript/10.Closure.md)|
 |||
 |**02. 브라우저의 이해**|[BOM과 DOM](02.브라우저의%20이해/00.BOM_DOM.md)|
