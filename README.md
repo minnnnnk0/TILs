@@ -20,6 +20,7 @@ What I studied in the Frontend coures
 ||[스코프와 스코프체인](01.Javascript/08.Scope_ScopeChain.md)|
 ||[렉시컬 스코프](01.Javascript/09.Lexical_Scope.md)|
 ||[Closure](01.Javascript/10.Closure.md)|
+||[구조분해할당](01.Javascript/11.Destructuring_assignment.md)|
 |||
 |**02. 브라우저의 이해**|[BOM과 DOM](02.브라우저의%20이해/00.BOM_DOM.md)|
 ||[stopPropagation()과 preventDefault()](02.브라우저의%20이해/01.stopPropagation()_preventDefault().md)|
