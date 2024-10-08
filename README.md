@@ -22,6 +22,7 @@ What I studied in the Frontend coures
 ||[Closure](01.Javascript/10.Closure.md)|
 ||[구조분해할당](01.Javascript/11.Destructuring_assignment.md)|
 ||[프로토타입](01.Javascript/12.Prototype.md)|
+||[map() vs forEach()](01.Javascript/13.map_forEach.md)|
 |||
 |**02. 브라우저의 이해**|[BOM과 DOM](02.브라우저의%20이해/00.BOM_DOM.md)|
 ||[stopPropagation()과 preventDefault()](02.브라우저의%20이해/01.stopPropagation()_preventDefault().md)|
