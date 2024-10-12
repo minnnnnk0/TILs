@@ -44,4 +44,5 @@ What I studied in the Frontend coures
 |**04. FE 개발도구**|[Package Manager](04.FE%20개발도구/00.Package_Manager.md)|
 ||[packege.json이란?](04.FE%20개발도구/01.package.json.md)|
 ||[SemVer](04.FE%20개발도구/02.SemVer.md)|
+||[package-lock.json](04.FE%20개발도구/03.package-lock.json.md)|
 |||
