@@ -46,4 +46,7 @@ What I studied in the Frontend coures
 ||[SemVer](04.FE%20개발도구/02.SemVer.md)|
 ||[package-lock.json](04.FE%20개발도구/03.package-lock.json.md)|
 ||[Webpack](04.FE%20개발도구/04.Webpack.md)|
+||[코드스플리팅](04.FE%20개발도구/05.Code_Splitting.md)|
+||[트리쉐이킹](04.FE%20개발도구/06.Tree_Shaking.md)|
+||[트랜스파일러와 Babel Sass](04.FE%20개발도구/07.%20Transpiler.md)|
 |||
