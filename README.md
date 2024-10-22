@@ -49,4 +49,7 @@ What I studied in the Frontend coures
 ||[코드스플리팅](04.FE%20개발도구/05.Code_Splitting.md)|
 ||[트리쉐이킹](04.FE%20개발도구/06.Tree_Shaking.md)|
 ||[트랜스파일러와 Babel Sass](04.FE%20개발도구/07.%20Transpiler.md)|
+||[Linter (ESLint, Prettier)](04.FE%20개발도구/08.Linter.md)|
+|||
+|**05. FE 테스트**||
 |||
