@@ -52,4 +52,5 @@ What I studied in the Frontend coures
 ||[Linter (ESLint, Prettier)](04.FE%20개발도구/08.Linter.md)|
 |||
 |**05. FE 테스트**|[Test Driven Development](05.FE%20테스트/00.TDD.md)|
+||[Jest](05.FE%20테스트/01.Jest.md)|
 |||
