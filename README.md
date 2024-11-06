@@ -55,3 +55,5 @@ What I studied in the Frontend coures
 ||[Jest](05.FE%20테스트/01.Jest.md)|
 ||[Cypress](05.FE%20테스트/02.Cypress.md)|
 |||
+|**06. 알고리즘 스터디**|[Dijkstra](06.스터디/00.dijkstra.md)|
+|||
