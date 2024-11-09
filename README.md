@@ -54,6 +54,7 @@ What I studied in the Frontend coures
 |**05. FE 테스트**|[Test Driven Development](05.FE%20테스트/00.TDD.md)|
 ||[Jest](05.FE%20테스트/01.Jest.md)|
 ||[Cypress](05.FE%20테스트/02.Cypress.md)|
+||[Storybook](05.FE%20테스트/03.Storybook.md)|
 |||
 |**98. 알고리즘 회고**|[24.11.06](98.스터디/00.bfs%20vs%20dijkstra.md)|
 ||[24.11.07](98.스터디/01.다차원%20배열%20체크.md)|
