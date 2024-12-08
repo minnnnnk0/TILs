@@ -41,6 +41,8 @@ What I studied in the Frontend coures
 ||[XMLHttpRequest](03.네트워크%20통신/02.XMLHttpRequest.md)|
 ||[Promise](03.네트워크%20통신/03.Promise.md)|
 ||[async, await, fetch()](03.네트워크%20통신/04.async_await_fetch().md)|
+||[RestAPI](03.네트워크%20통신/05.RestAPI.md)|
+||[직렬화와 역직렬화](03.네트워크%20통신/06.Serialization_Deserialization.md)|
 |||
 |**04. FE 개발도구**|[Package Manager](04.FE%20개발도구/00.Package_Manager.md)|
 ||[packege.json이란?](04.FE%20개발도구/01.package.json.md)|
