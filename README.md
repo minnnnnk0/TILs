@@ -34,6 +34,7 @@
 ||[DocumentFragment](02.브라우저의%20이해/05.DocumentFragment.md)|
 ||[브라우저 랜더링 과정](02.브라우저의%20이해/06.브라우저_랜더링_과정.md)|
 ||[파싱, 랜더트리 생성](02.브라우저의%20이해/07.파싱_랜더트리_생성.md)|
+||[reflow와 repaint](02.브라우저의%20이해/08.reflow_repaint.md)|
 |||
 |**03. 네트워크 통신**|[HTTP](03.네트워크%20통신/00.HTTP.md)|
 ||[쿠키, 세션, 캐시](03.네트워크%20통신/01.쿠키_세션_캐시.md)|
@@ -47,6 +48,8 @@
 ||[오버로딩 vs 오버라이딩](04.OOP/01.Overloading_Overriding.md)|
 |||
 |**05. 클라우드/인프라**|[온프레미스와 오프프레미스](05.클라우드%20인프라/00.Off-premiss_On-premiss.md)|
+||[IaaS PaaS IaaS](05.클라우드%20인프라/01.SaaS_PaaS_IaaS.md)|
+||[가상 머신이란?](05.클라우드%20인프라/02.Virtual_Machine.md)|
 |||
 |**06. FE 개발도구**|[Package Manager](06.FE%20개발도구/00.Package_Manager.md)|
 ||[packege.json이란?](06.FE%20개발도구/01.package.json.md)|
