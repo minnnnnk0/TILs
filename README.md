@@ -46,6 +46,7 @@
 |||
 |**04. OOP**|[클래스, 객체, 인스턴스](04.OOP/00.클래스,%20객체,%20인스턴스.md)|
 ||[오버로딩 vs 오버라이딩](04.OOP/01.Overloading_Overriding.md)|
+||[추상화란?](04.OOP/02.Abstracting.md)|
 |||
 |**05. 클라우드/인프라**|[온프레미스와 오프프레미스](05.클라우드%20인프라/00.Off-premiss_On-premiss.md)|
 ||[IaaS PaaS IaaS](05.클라우드%20인프라/01.SaaS_PaaS_IaaS.md)|
